@@ -463,6 +463,17 @@ namespace Tweaks_Fixes
             }
         }
 
+        [HarmonyPatch(typeof(GameModeManager), "GetCreatureAggressionModifier")]
+        internal class GameModeManager_GetCreatureAggressionModifier_Patch
+        {
+            public static void Postfix(ref float __result)
+            {
+                if (ConfigMenu.disableCreatureAggression.Value)
+                {
+                    __result = 0f;
+                }
+            }
+        }
 
 
     }
