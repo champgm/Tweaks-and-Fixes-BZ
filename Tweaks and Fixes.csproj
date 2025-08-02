@@ -37,64 +37,64 @@
   <ItemGroup>
     <Reference Include="0Harmony, Version=2.9.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>$(ProjectDir)\Dependencies\BepInEx\BepInEx\core\0Harmony.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass_publicized, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\Assembly-CSharp-firstpass_publicized.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\Assembly-CSharp-firstpass_publicized.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp_publicized, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\Assembly-CSharp_publicized.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\Assembly-CSharp_publicized.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx, Version=5.4.22.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>$(ProjectDir)\Dependencies\BepInEx\BepInEx\core\BepInEx.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\BepInEx.dll</HintPath>
     </Reference>
     <Reference Include="FMODUnity, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\FMODUnity.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\FMODUnity.dll</HintPath>
     </Reference>
     <Reference Include="Nautilus, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\BepInEx\plugins\Nautilus\Nautilus.dll</HintPath>
+      <HintPath>C:\GAMES\Subnautica Below Zero\BepInEx\plugins\Nautilus\Nautilus.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\UnityEngine.AnimationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\UnityEngine.ParticleSystemModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PhysicsModule">
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\UnityEngine.PhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\SteamLibrary\steamapps\common\SubnauticaZero\SubnauticaZero_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <HintPath>..\..\..\..\..\Games\STEAM\steamapps\common\SNBZ\DLLs\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -166,15 +166,15 @@
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>
-mkdir "D:\SteamLibrary\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes"
-copy /Y "$(TargetPath)" "D:\SteamLibrary\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes\$(TargetFileName)"
-mkdir "D:\SteamLibrary\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes\Localization"
-copy /Y "$(ProjectDir)\Localization\*.*" "D:\SteamLibrary\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes\Localization"
+mkdir "C:\GAMES\Steam\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes"
+copy /Y "$(TargetPath)" "C:\GAMES\Steam\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes\$(TargetFileName)"
+mkdir "C:\GAMES\Steam\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes\Localization"
+copy /Y "$(ProjectDir)\Localization\*.*" "C:\GAMES\Steam\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes\Localization"
 	
-mkdir "D:\SteamLibrary\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes"
-copy /Y "$(TargetPath)" "D:\SteamLibrary\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes\$(TargetFileName)"
-mkdir "D:\SteamLibrary\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes\Localization"
-copy /Y "$(ProjectDir)\Localization\*.*" "D:\SteamLibrary\steamapps\common\SubnauticaZero\BepInEx\plugins\TweaksAndFixes\Localization"</PostBuildEvent>
+mkdir "C:\GAMES\Subnautica Below Zero\BepInEx\plugins\TweaksAndFixes"
+copy /Y "$(TargetPath)" "C:\GAMES\Subnautica Below Zero\BepInEx\plugins\TweaksAndFixes\$(TargetFileName)"
+mkdir "C:\GAMES\Subnautica Below Zero\BepInEx\plugins\TweaksAndFixes\Localization"
+copy /Y "$(ProjectDir)\Localization\*.*" "C:\GAMES\Subnautica Below Zero\BepInEx\plugins\TweaksAndFixes\Localization"</PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
